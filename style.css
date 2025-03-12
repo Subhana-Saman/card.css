@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.card{
+    background-color: rgba(247, 179, 179, 0.39);
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+img{
+ width: 500px;
+}
+
+.btn{
+    background-color:rgba(47, 47, 185, 0.582) ;
+    color: white;
+    padding: 7px;
+    border-radius: 10px;
+
+}
